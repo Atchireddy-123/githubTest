@@ -1,5 +1,5 @@
 # githubTest
-General Programs
+General Program
 
 Atchireddy
 Polamreddy
